@@ -11,6 +11,9 @@ Explorer = function()
 	Explorer App Module
 	
 	The main explorer interface
+	
+	This is not a Rael modification
+	
 ]]
 
 -- Common Locals
